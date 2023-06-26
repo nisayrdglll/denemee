@@ -8,4 +8,7 @@
 </p>
 
 <hr>
-<h3>Why should we use the Goo web server?</h3>
+<div>
+  <h3>Why should we use the Goo Web Server?</h3>
+</div>
+
