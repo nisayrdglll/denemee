@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/nisayrdglll/denemee/assets/115365248/17d980b2-b2ad-49b9-84d3-133ffaf6c0d1" alt="Goo Web Server Logo">
+  <img src= "https://github.com/nisayrdglll/denemee/assets/115365248/6001fd62-1efa-48b9-8a9d-3bd92055ccbb
+  alt="Goo Web Server Logo">
   <hr>
 </div>
 <h2>What is Goo Web Server? </h2>
