@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= "https://github.com/nisayrdglll/denemee/assets/115365248/6001fd62-1efa-48b9-8a9d-3bd92055ccbb
+  <img src= "https://github.com/nisayrdglll/denemee/assets/115365248/6001fd62-1efa-48b9-8a9d-3bd92055ccbb"
   alt="Goo Web Server Logo">
   <hr>
 </div>
