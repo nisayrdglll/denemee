@@ -129,3 +129,4 @@
 
 </div>
 <img src="https://camo.githubusercontent.com/e9fea64d2e82a27cd7949faab8e35ba4baa0435df9e34df3a83074699eae81b5/68747470733a2f2f6170692e7472617669732d63692e636f6d2f6170616368652f6a6d657465722e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://api.travis-ci.com/apache/jmeter.svg?branch=master" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=555" style="max-width: 100%;">
