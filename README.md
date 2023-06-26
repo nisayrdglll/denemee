@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/nisayrdglll/denemee/assets/115365248/17d980b2-b2ad-49b9-84d3-133ffaf6c0d1" alt="Goo Web Server Logo">
+  <hr>
 </div>
-
 <br>
 <br>
 <p>
