@@ -128,4 +128,4 @@
 </ul>
 
 </div>
-
+<img src="https://camo.githubusercontent.com/e9fea64d2e82a27cd7949faab8e35ba4baa0435df9e34df3a83074699eae81b5/68747470733a2f2f6170692e7472617669732d63692e636f6d2f6170616368652f6a6d657465722e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://api.travis-ci.com/apache/jmeter.svg?branch=master" style="max-width: 100%;">
