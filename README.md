@@ -170,3 +170,18 @@
   <li>Verify that the Goo Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the "It works!" message. You should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
 </ol>
 </div>
+<hr>
+
+<div>
+  <h2>License</h2>
+
+<p>This project is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>. The license text can be found below:</p>
+
+<pre>
+Apache License, Version 2.0 (ALv2)
+The license text will go here.
+</pre>
+
+<p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file.</p>
+
+</div>
