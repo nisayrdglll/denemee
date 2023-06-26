@@ -148,7 +148,7 @@
   <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
   <li>Download the necessary resources:
     <ul>
-      <li>Download the latest version of the Apache HTTP Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
+      <li>Download the latest version of the Goo Web Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
     </ul>
   </li>
   <li>Run the downloaded installation file. The installation wizard will start.</li>
@@ -161,9 +161,9 @@
       <li>Start the installation and wait for it to complete.</li>
     </ul>
   </li>
-  <li>Once the installation is complete, the Apache HTTP Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
-  <li>Customize your server by editing the Apache configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
-  <li>Start the Apache HTTP Server. You can start it by running the startup file or managing services.</li>
-  <li>Verify that the Apache HTTP Server is running by visiting <a href="http://localhost">http://localhost</a> or <a href="http://127.0.0.1">http://127.0.0.1</a> in your browser. By default, you should see the "It works!" message.</li>
+  <li>Once the installation is complete, the Goo Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
+  <li>Customize your server by editing  configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
+  <li>Start the Goo Web Server. You can start it by running the startup file or managing services.</li>
+  <li>Verify that the Goo Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the "It works!" message.</li>
 </ol>
 </div>
