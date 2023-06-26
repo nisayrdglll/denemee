@@ -16,6 +16,7 @@
 <a>
 <img src="https://camo.githubusercontent.com/cd8d1278950d417149d42b9c5e47795a19afce997b390ba6668f35abde0b09a5/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f646570656e64656e63792d762f6d657966612f7068702d7376672f7068703f7374796c653d706c6173746963" alt="Packagist PHP Version" data-canonical-src="https://img.shields.io/packagist/dependency-v/meyfa/php-svg/php?style=plastic" style="max-width: 100%;">
 </a>
+<a href="https://codeclimate.com/github/meyfa/php-svg/maintainability" rel="nofollow"><img src="https://camo.githubusercontent.com/61e5e28c2aec895e6c83bcc02da4c7f780c619eff615f36cc18e0cfabb3b92c4/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f38663733343638363031613635336166663065382f6d61696e7461696e6162696c697479" alt="Maintainability" data-canonical-src="https://api.codeclimate.com/v1/badges/8f73468601a653aff0e8/maintainability" style="max-width: 100%;"></a>
 
 </p>
 
