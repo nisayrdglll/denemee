@@ -179,7 +179,6 @@
 
 <pre>
 Apache License, Version 2.0 (ALv2)
-The license text will go here.
 </pre>
 
 <p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file.</p>
