@@ -13,9 +13,9 @@
   <img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=555" style="max-width: 100%;"></a>
   <a><img src="https://camo.githubusercontent.com/0c9361ec5749b0464cea5624675dfe514f129fb17a64ea7a70decaa0d2e4a4a8/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f6170616368652d73757065727365742e7376673f6d61784167653d32353932303030" alt="PyPI" data-canonical-src="https://img.shields.io/pypi/pyversions/apache-superset.svg?maxAge=2592000" style="max-width: 100%;">
   </a>
-  <a href="https://www.linkedin.com/company/inosas/" style="background-color: blue; display: inline-block; padding: 10px;">
-  <img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&amp;logo=linkedin&amp;colorB=555" style="max-width: 100%;">
-</a>
+  <a><img src="https://camo.githubusercontent.com/2a2157c971b7ae1deb8eb095799440551c33dcf61ea3d965d86b496a5a65df55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667" alt="License" data-canonical-src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="max-width: 100%;">
+  </a>
+
 
 </p>
 
