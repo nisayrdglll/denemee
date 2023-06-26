@@ -4,7 +4,8 @@
   alt="Goo Web Server Logo">
   <hr>
 </div>
-<h2>What is Goo Web Server? </h2>
+<h1>What is Goo Web Server? </h1>
+
 <p>
   "Goo Web Server" is a cross-platform web development environment available for both Windows and Linux operating systems. It allows you to develop web applications using the Apache2 web server, PHP programming language, and a MySQL database. Whether you are using Windows or Linux, Goo Web Server provides a user-friendly interface, including PhpMyAdmin, which simplifies the management of your databases. With Goo Web Server, you can seamlessly create and deploy web applications, taking advantage of the robust combination of Apache2, PHP, and MySQL on both Windows and Linux platforms.
 </p>
@@ -22,7 +23,8 @@
 
 <hr>
 <div>
-  <h3>Why should we use the Goo Web Server?</h3>
+  <h2>Why should we use the Goo Web Server?</h2>
+  
   <ul>
   <li>
     <strong>Hosting Web Applications:</strong> The Goo Web Server allows you to host and serve your web applications, making them accessible to users over the internet.
@@ -49,7 +51,8 @@
 </div>
 <hr>
 <div>
-  <h3>Configuration Settings</h3>
+  <h2>Configuration Settings</h2>
+  
  <ul>
   <li><strong>Define app_dir "C:\Program Files\INOSAS\GOO":</strong>
     <ul>
@@ -143,7 +146,7 @@
 <hr>
 
 <div>
-  <h3>Installation </h3>
+  <h2>Installation </h2>
 <ol>
   <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
   <li>Download the necessary resources:
