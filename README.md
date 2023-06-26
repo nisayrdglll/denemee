@@ -14,7 +14,7 @@
   <a><img src="https://camo.githubusercontent.com/2a2157c971b7ae1deb8eb095799440551c33dcf61ea3d965d86b496a5a65df55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667" alt="License" data-canonical-src="https://img.shields.io/badge/License-Apache%2.4.57-blue.svg" style="max-width: 100%;">
   </a>
 <a>
-  <img src="https://camo.githubusercontent.com/d65d51704b287e5d73f4c937a6268e674949aa7d61aa10478003d9d7c0461272/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6170616368652e6f72672d626c75652e737667" alt="Documentation" data-canonical-src="https://img.shields.io/badge/docs-apache.org-blue.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/cd8d1278950d417149d42b9c5e47795a19afce997b390ba6668f35abde0b09a5/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f646570656e64656e63792d762f6d657966612f7068702d7376672f7068703f7374796c653d706c6173746963" alt="Packagist PHP Version" data-canonical-src="https://img.shields.io/packagist/dependency-v/meyfa/php-svg/php?style=plastic" style="max-width: 100%;">
 </a>
 
 </p>
