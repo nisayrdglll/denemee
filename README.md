@@ -37,29 +37,94 @@
 <hr>
 <div>
   <h3>Configuration Settings</h3>
-  <p><strong>Define app_dir "C:\Program Files\INOSAS\GOO":</strong> This line defines a macro <code>app_dir</code> with the value <code>"C:\Program Files\INOSAS\GOO"</code>. Macros allow you to define reusable variables in the configuration.</p>
+ <ul>
+  <li><strong>Define app_dir "C:\Program Files\INOSAS\GOO":</strong>
+    <ul>
+      <li>This line defines a macro <code>app_dir</code> with the value <code>"C:\Program Files\INOSAS\GOO"</code>.</li>
+      <li>Macros allow you to define reusable variables in the configuration.</li>
+    </ul>
+  </li>
 
-<p><strong>ServerRoot "${SRVROOT}":</strong> This directive sets the server's root directory to the value of the <code>SRVROOT</code> macro, which is defined as <code>"${app_dir}\bin\Apache24"</code>. The server's configuration, error, and log files will be stored in this directory.</p>
+  <li><strong>ServerRoot "${SRVROOT}":</strong>
+    <ul>
+      <li>This directive sets the server's root directory to the value of the <code>SRVROOT</code> macro.</li>
+      <li>The <code>SRVROOT</code> macro is defined as <code>"${app_dir}\bin\Apache24"</code>.</li>
+      <li>The server's configuration, error, and log files will be stored in this directory.</li>
+    </ul>
+  </li>
 
-<p><strong>Listen 80:</strong> This directive specifies that the server should listen on port 80 for incoming requests.</p>
+  <li><strong>Listen 80:</strong>
+    <ul>
+      <li>This directive specifies that the server should listen on port 80 for incoming requests.</li>
+    </ul>
+  </li>
 
-<p><strong>LoadModule:</strong> These directives load modules (extensions) that provide additional functionality to the server. Each <code>LoadModule</code> directive loads a specific module by specifying its shared object file (.so file) or equivalent for Windows. The listed modules include modules for authentication, authorization, SSL/TLS, PHP, and more.</p>
+  <li><strong>LoadModule:</strong>
+    <ul>
+      <li>These directives load modules (extensions) that provide additional functionality to the server.</li>
+      <li>Each <code>LoadModule</code> directive loads a specific module by specifying its shared object file (.so file) or equivalent for Windows.</li>
+      <li>The listed modules include modules for authentication, authorization, SSL/TLS, PHP, and more.</li>
+    </ul>
+  </li>
 
-<p><strong>&lt;IfModule unixd_module&gt;:</strong> This section contains directives specific to the <code>unixd_module</code>, which is responsible for configuring the server to run as a specific user and group. In this case, the user and group are set to <code>daemon</code>.</p>
+  <li><strong>&lt;IfModule unixd_module&gt;:</strong>
+    <ul>
+      <li>This section contains directives specific to the <code>unixd_module</code>.</li>
+      <li>The <code>unixd_module</code> is responsible for configuring the server to run as a specific user and group.</li>
+      <li>In this case, the user and group are set to <code>daemon</code>.</li>
+    </ul>
+  </li>
 
-<p><strong>&lt;Directory&gt;:</strong> This section specifies the configuration options for a specific directory. The given directory is <code>${app_dir}\www</code>, and the options include allowing directory indexes (<code>Options +Indexes</code>) and overriding options in <code>.htaccess</code> files (<code>AllowOverride All</code>).</p>
+  <li><strong>&lt;Directory&gt;:</strong>
+    <ul>
+      <li>This section specifies the configuration options for a specific directory.</li>
+      <li>The given directory is <code>${app_dir}\www</code>.</li>
+      <li>The options include allowing directory indexes (<code>Options +Indexes</code>) and overriding options in <code>.htaccess</code> files (<code>AllowOverride All</code>).</li>
+    </ul>
+  </li>
 
-<p><strong>DocumentRoot "${app_dir}\www":</strong> This directive sets the document root directory to <code>${app_dir}\www</code>. This is the directory from which the server will serve web content.</p>
+  <li><strong>DocumentRoot "${app_dir}\www":</strong>
+    <ul>
+      <li>This directive sets the document root directory to <code>${app_dir}\www</code>.</li>
+      <li>This is the directory from which the server will serve web content.</li>
+    </ul>
+  </li>
 
-<p><strong>DirectoryIndex index.php index.html:</strong> This directive specifies the default filenames to use when a directory is requested. In this case, the server will look for <code>index.php</code> and <code>index.html</code> files.</p>
+  <li><strong>DirectoryIndex index.php index.html:</strong>
+    <ul>
+      <li>This directive specifies the default filenames to use when a directory is requested.</li>
+      <li>In this case, the server will look for <code>index.php</code> and <code>index.html</code> files.</li>
+    </ul>
+  </li>
 
-<p><strong>&lt;Files ".ht*"&gt;:</strong> This section restricts access to files starting with <code>.ht</code>. In this case, it denies access to such files.</p>
+  <li><strong>&lt;Files ".ht*"&gt;:</strong>
+    <ul>
+      <li>This section restricts access to files starting with <code>.ht</code>.</li>
+      <li>In this case, it denies access to such files.</li>
+    </ul>
+  </li>
 
-<p><strong>ErrorLog "logs/error.log":</strong> This directive sets the location of the error log file to <code>"logs/error.log"</code>. This file will contain error messages generated by the server.</p>
+  <li><strong>ErrorLog "logs/error.log":</strong>
+    <ul>
+      <li>This directive sets the location of the error log file to <code>"logs/error.log"</code>.</li>
+      <li>This file will contain error messages generated by the server.</li>
+    </ul>
+  </li>
 
-<p><strong>LogLevel error:</strong> This directive sets the log level to <code>error</code>, which means only error-level messages will be logged.</p>
+  <li><strong>LogLevel error:</strong>
+    <ul>
+      <li>This directive sets the log level to <code>error</code>.</li>
+      <li>Only error-level messages will be logged.</li>
+    </ul>
+  </li>
 
-<p><strong>LogFormat:</strong> These directives define the log file format for the access logs. The combined and common formats are defined here.</p>
+  <li><strong>LogFormat:</strong>
+    <ul>
+      <li>These directives define the log file format for the access logs.</li>
+      <li>The combined and common formats are defined here.</li>
+    </ul>
+  </li>
+</ul>
 
 </div>
 
