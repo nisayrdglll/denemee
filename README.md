@@ -1,10 +1,13 @@
+<h1> <img src="https://github.com/nisayrdglll/denemee/assets/115365248/4be6c390-9d71-428b-b2a0-33fb4af91933"> GOO Web Server</h1>
 
 <div align="center">
   <img src= "https://github.com/nisayrdglll/denemee/assets/115365248/6001fd62-1efa-48b9-8a9d-3bd92055ccbb"
   alt="Goo Web Server Logo">
   <hr>
 </div>
-<h1>What is GOO Web Server? </h1>
+
+<h1>What is GOO Web Server?  </h1>
+
 
 <p>
   "GOO Web Server" is a cross-platform web development environment available for both Windows and Linux operating systems. It allows you to develop web applications using the Apache2 web server, PHP programming language, and a MySQL database. Whether you are using Windows or Linux, GOO Web Server provides a user-friendly interface, including PhpMyAdmin, which simplifies the management of your databases. With GOO Web Server, you can seamlessly create and deploy web applications, taking advantage of the robust combination of Apache2, PHP, and MySQL on both Windows and Linux platforms.
