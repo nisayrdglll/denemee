@@ -4,10 +4,10 @@
   alt="Goo Web Server Logo">
   <hr>
 </div>
-<h1>What is Goo Web Server? </h1>
+<h1>What is GOO Web Server? </h1>
 
 <p>
-  "Goo Web Server" is a cross-platform web development environment available for both Windows and Linux operating systems. It allows you to develop web applications using the Apache2 web server, PHP programming language, and a MySQL database. Whether you are using Windows or Linux, Goo Web Server provides a user-friendly interface, including PhpMyAdmin, which simplifies the management of your databases. With Goo Web Server, you can seamlessly create and deploy web applications, taking advantage of the robust combination of Apache2, PHP, and MySQL on both Windows and Linux platforms.
+  "GOO Web Server" is a cross-platform web development environment available for both Windows and Linux operating systems. It allows you to develop web applications using the Apache2 web server, PHP programming language, and a MySQL database. Whether you are using Windows or Linux, GOO Web Server provides a user-friendly interface, including PhpMyAdmin, which simplifies the management of your databases. With GOO Web Server, you can seamlessly create and deploy web applications, taking advantage of the robust combination of Apache2, PHP, and MySQL on both Windows and Linux platforms.
 </p>
 <p dir="auto">
 
@@ -23,29 +23,29 @@
 
 <hr>
 <div>
-  <h2>Why should we use the Goo Web Server?</h2>
+  <h2>Why should we use the GOO Web Server?</h2>
   
   <ul>
   <li>
-    <strong>Hosting Web Applications:</strong> The Goo Web Server allows you to host and serve your web applications, making them accessible to users over the internet.
+    <strong>Hosting Web Applications:</strong> The GOO Web Server allows you to host and serve your web applications, making them accessible to users over the internet.
   </li>
   <li>
-    <strong>Platform for Dynamic Content:</strong> With the Goo Web Server, you can run server-side scripting languages like PHP, Python, or Node.js, enabling the creation of dynamic and interactive web pages.
+    <strong>Platform for Dynamic Content:</strong> With the GOO Web Server, you can run server-side scripting languages like PHP, Python, or Node.js, enabling the creation of dynamic and interactive web pages.
   </li>
   <li>
-    <strong>Database Integration:</strong> The Goo Web Server often comes with support for database systems like MySQL, PostgreSQL, or MongoDB. This integration allows you to store and retrieve data for your web applications.
+    <strong>Database Integration:</strong> The GOO Web Server often comes with support for database systems like MySQL, PostgreSQL, or MongoDB. This integration allows you to store and retrieve data for your web applications.
   </li>
   <li>
-    <strong>Scalability and Performance:</strong> The Goo Web Server is designed to handle multiple concurrent requests efficiently, ensuring high performance and scalability as your application grows.
+    <strong>Scalability and Performance:</strong> The GOO Web Server is designed to handle multiple concurrent requests efficiently, ensuring high performance and scalability as your application grows.
   </li>
   <li>
-    <strong>Security Features:</strong> The Goo Web Server may include security features such as SSL/TLS encryption, access control, and firewalls to protect your web applications and data.
+    <strong>Security Features:</strong> The GOO Web Server may include security features such as SSL/TLS encryption, access control, and firewalls to protect your web applications and data.
   </li>
   <li>
-    <strong>Cross-Platform Compatibility:</strong> The Goo Web Server supports multiple operating systems like Windows and Linux, allowing you flexibility in choosing your development and deployment environment.
+    <strong>Cross-Platform Compatibility:</strong> The GOO Web Server supports multiple operating systems like Windows and Linux, allowing you flexibility in choosing your development and deployment environment.
   </li>
   <li>
-    <strong>User-Friendly Interfaces:</strong> The Goo Web Server often comes with user-friendly interfaces or control panels that simplify the configuration, management, and monitoring of server settings.
+    <strong>User-Friendly Interfaces:</strong> The GOO Web Server often comes with user-friendly interfaces or control panels that simplify the configuration, management, and monitoring of server settings.
   </li>
 </ul>
 </div>
@@ -151,7 +151,7 @@
   <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
   <li>Download the necessary resources:
     <ul>
-      <li>Download the latest version of the Goo Web Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
+      <li>Download the latest version of the GOO Web Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
     </ul>
   </li>
   <li>Run the downloaded installation file. The installation wizard will start.</li>
@@ -160,14 +160,14 @@
       <li>Accept the license agreement.</li>
       <li>Select the installation type. Usually, you should choose the "Typical" installation option.</li>
       <li>Specify the installation location. You can accept the default value or choose a different location.</li>
-      <li>Select the required components. Besides the Apache HTTP Server, you can choose optional modules or features.</li>
+      <li>Select the required components. Besides the GOO Web Server, you can choose optional modules or features.</li>
       <li>Start the installation and wait for it to complete.</li>
     </ul>
   </li>
-  <li>Once the installation is complete, the Goo Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
+  <li>Once the installation is complete, the GOO Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
   <li>Customize your server by editing  configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
-  <li>Start the Goo Web Server. You can start it by running the startup file or managing services.</li>
-  <li>Verify that the Goo Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, You should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
+  <li>Start the GOO Web Server. You can start it by running the startup file or managing services.</li>
+  <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, You should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
 </ol>
 </div>
 <hr>
