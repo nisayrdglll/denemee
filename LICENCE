@@ -1,1 +1,47 @@
+                      Apache License
+                  Version 2.0, January 2004
+              http://www.apache.org/licenses/">http://www.apache.org/licenses/
+
+          TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+          1. Definitions
+
+          1.1. “GOO®” means INOSAS Company, a Turkish IT Joint Stock Corporation, having its principal place of business at INOSAS TEKNOLOJI ANONIM SIRKETI, 
+          Mustafa Kemal Mh. Dumlupinar Blv. No: 280G/315, Cankaya Ankara, Turkiye.
+          For the purposes of this License Agreement the terms –
+          1.2. “Licensed Software” means the GOO®known by the name WEB SERVER as provided and released by GOO®, in object code only, any updates and new 
+          versions of the GOO®, as made available from time to time by GOO®, any third party software provided therewith, and all associated documentation 
+          provided with the Licensed Software. Nothing in this License Agreement shall be construed as granting rights to any third parties
+
+          2. Grant of License:
+
+          2.1. License: Subject to the terms and conditions of this License Agreement, GOO®hereby grants the Customer, and the Customer hereby accept, a non- 
+          exclusive, non-transferable, limited and revocable license to use the copy of the Licensed Software for installation on Customer’s computer server 
+          for Customer’s internal purposes only, and subject to the requirements, restrictions and limitations set forth in Appendix I attached hereto (the 
+          “License Conditions”).
+
+          2.2. Restrictions: Licensee will not, and will not allow, without the express written authorization of GOO®to:
+            (a) Demonstrate, copy, rent, lease, sell, sublicense, assign, market or otherwise transfer any portion of the Licensed Software to any third 
+            party; or
+            (b) Publish or otherwise disclose or provide information in connection with the Licensed Software, documentation, or any related information 
+            including but not limited to information relating to performance or quality of the Licensed Software to any third party; or
+            (c) Modify, reuse, disassemble, decompile (or attempt to derive the source code of the Licensed Software), reverse engineer or otherwise 
+            translate the Licensed Software or any portion thereof, including, without limitation, any software delivered with the Licensed Software, except 
+            and only to the extent that this limitation is expressly prohibited by applicable law notwithstanding this limitation; or
+            (d) Create any software program that links, embeds or makes direct function calls to run time or other components licensed by GOO® from third 
+            parties; or
+            (e) Remove, alter or cause not to be displayed, any trademarks, copyright notices or start-up messages contained in the Licensed Software; or
+            (f) Permit concurrent use of the Licensed Software with more than 3 system users, unless approved in writing by GOO® or unless additional 
+            licenses were purchased;
+            (g) Remove or attempt to remove or circumvent any security measures installed in the Licensed Software.
+            (h) Create any derivative works of the Licensed Software.
+            Nothing in this section shall derogate from any of the other Licensee’s obligations and undertakings in this License Agreement.
+
+         2.3. From time to time, upon GOO® reasonable request, the Customer will provide GOO® log files generated in Customer’s computer servers, as a result 
+         of using the Licensed Software (“Log Files”). GOO® may use the Log Files for internal purposes only, including for debugging, and for monitoring and 
+         enhancing the functionality of the Licensed Software. The method and format for transferring log files will be mutually discussed and agreed between 
+         the parties.
+
+         2.4. GOO® will keep the Log Files confidential, will not transfer them to any third party without Customer written permission, and will permanently 
+         delete them when their retention is no longer necessary. GOO® will reasonably safeguard the Log Files from unauthorized, negligent or inadvertent 
+         use or disclosure thereof.
 
