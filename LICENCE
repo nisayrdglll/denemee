@@ -1,8 +1,9 @@
-                      Apache License
-                  Version 2.0, January 2004
+                            Apache License
+                     Version 2.0, January 2004
               http://www.apache.org/licenses/">http://www.apache.org/licenses/
 
           TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
           1. Definitions
 
           1.1. “GOO®” means INOSAS Company, a Turkish IT Joint Stock Corporation, having its principal place of business at INOSAS TEKNOLOJI ANONIM SIRKETI, 
@@ -44,4 +45,155 @@
          2.4. GOO® will keep the Log Files confidential, will not transfer them to any third party without Customer written permission, and will permanently 
          delete them when their retention is no longer necessary. GOO® will reasonably safeguard the Log Files from unauthorized, negligent or inadvertent 
          use or disclosure thereof.
+
+         3. Confidentiality:
+
+         3.1. The parties acknowledge and contemplate the exchange of Confidential Information. Each party shall maintain the other party’s Confidential Information in the strictest confidence, using the same degree of care it uses to protect its own Confidential Information, and at least a reasonable degree of care.
+         3.2. Without limiting the foregoing, neither party shall disclose Confidential Information to any third party, other than to personnel who have a “need to know”, and only to the extent necessary for the execution of this License Agreement. Each party shall be responsible for compliance of its personnel with confidentiality undertakings substantially similar to the provisions of this section 3.
+         3.3. Neither party shall use the Confidential Information disclosed to it in any way whatsoever other than as necessary for the performance of this License Agreement.
+         3.4. In this License Agreement, the term “Confidential Information” shall mean any proprietary information of either party, designated as confidential by such party or of a confidential nature, including but not limited to, all designs, concepts, scientific, algorithmic and structural information; information of a business and commercial nature (such as financial and marketing information disclosed in any form or medium whatsoever) and the terms and conditions of this License Agreement.
+         3.5. The code of the Licensed Software, pricing information, and any materials, methodology and documentation associated with the Licensed Software, including this License Agreement are proprietary and shall be deemed Confidential Information of GOO®, unless they are in the public domain through no default of this License Agreement. Licensee must keep them confidential and may not disclose them to any third party. This provision will survive the termination or expiration of this License Agreement.
+         3.6. GOO® may use Customer’s trade name, trademarks and service marks, in promotional material, for the sole purpose of indicating Customer’s use of the Licensed Software and provided that GOO® will not use Customer’s name and marks in such way that suggests an endorsement or sponsorship of GOO® or the Licensed Software by the Customer. The Customer will reasonably cooperate with GOO® in promoting the Licensed Software, including by conducting conversations with potential clients and investors that GOO® refers to the Customer.
+
+         4. No Warranty:
+
+         4.1. THE LICENSED SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. GOO® DOES NOT WARRANT THAT THE LICENSED SOFTWARE WILL MEET CUSTOMER REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE. TO THE EXTENT PERMITTED BY LAW, GOO® EXPRESSLY DISCLAIMS ALL EXPRESS WARRANTIES NOT STATED HERE AND ALL IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+         THE CUSTOMER AGREES AND ACKNOWLEDGES THAT THE USE OF THE LICENSED SOFTWARE IS ENTIRELY, OR AT THE MAXIMUM PERMITTED BY THE APPLICABLE LAW, AT CUSTOMER’S OWN RISK. NO DEALER, DISTRIBUTOR, RESELLER, AGENT OR EMPLOYEE OF GOO® IS AUTHORIZED TO MAKE ANY MODIFICATIONS, EXTENSIONS, OR ADDITIONS TO THIS WARRANTY.
+         4.2. THE CUSTOMER ACKNOWLEDGES THAT THE LICENSED SOFTWARE IS INHERENTLY COMPLEX AND MAY THEREFORE NOT BE COMPLETELY FREE OF ERRORS. THE CUSTOMER FURTHER ACKNOWLEDGES THAT THE PERFORMANCE OF THE LICENSED SOFTWARE MAY BE AFFECTED BY ANY NUMBER OF FACTORS, INCLUDING WITHOUT LIMITATION, TECHNICAL FAILURE OF THE LICENSED SOFTWARE, ACTS OR OMISSIONS OF THIRD PARTIES AND OTHER CAUSES REASONABLY BEYOND THE CONTROL OF GOO®. BY USING THE LICENSED SOFTWARE THE CUSTOMER DECLARES THAT THE CUSTOMER ACCEPTS THESE FACTS AND THEIR CONSEQUENCES. 
+         Nothing contained in this License Agreement shall be construed as (a) a warranty or representation that use of the Licensed Software will be free from infringement of copyrights, patents or other rights of third parties; or (b) conferring by implication, estoppel, or otherwise, upon either party, any right to services, license or other right except the services and/or licenses and rights expressly granted in this License Agreement; or (c) a warranty or representation that Customer or any other entity, will be able to use the GOO® Licensed Software for any purpose.
+
+         5. Limitation of Liability:
+         5.1. GOO®, ITS OFFICERS, EMPLOYEES, SHAREHOLDERS, LICENSORS, AGENTS AND SUCCESSORS SHALL NOT BE LIABLE (WHETHER UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, TO THE CUSTOMER, OR ANY THIRD PARTY FOR ANY LOSS OR DAMAGE, INCLUDING INDIRECT, SPECIAL CONSEQUENTIAL, 
+         PUNITIVE, OR OTHER DAMAGES WHATSOEVER, AND INCLUDING, WITHOUT LIMITATION, ANY LOSS OR DAMAGE TO BUSINESS EARNINGS, LOST PROFITS AND OR GOODWILL, SUFFERED BY ANY PERSON, 
+         ARISING FROM AND/OR RELATED TO DELIVERY, INSTALLATION, USE, PERFORMANCE OF OR INABILITY TO USE THE LICENSED SOFTWARE AND/OR ANY OF ITS COMPONENTS, CUSTOMIZATIONS, DEVELOPMENTS OR MODIFICATIONS, WHETHER FORESEEABLE OR NOT, EVEN IF GOO®, OR ANY ONE ON ITS BEHALF, ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO WAY LIMITING THE FOREGOING AND TO THE FULL EXTENT PERMITTED BY LAW, GOO®WILL NOT BE LIABLE FOR NEGLIGENCE WITH RESPECT TO THE DESIGN OF THE GOO® LICENSED SOFTWARE AND WILL NOT BE LIABLE UNDER ANY STRICT LIABILITY CLAIMS CONCERNING THE LICENSED SOFTWARE.
+         5.2. The foregoing limitations shall apply notwithstanding any failure of essential purpose of any limited remedy and are fundamental elements of the transaction between GOO® and the Customer. 
+         The Customer acknowledges that GOO® and/or its reseller would not have entered into this License Agreement absent such limitations. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to the Customer. 
+         However, GOO® otherwise disclaims and/or limits liability to the extent fully allowed under applicable law.
+
+         6. Proprietary Rights:
+ 
+         6.1. All GOO® Intellectual Property Rights shall be the sole property of GOO® and except for the licenses granted hereunder, Licensee shall have no rights or claims to the Licensed Software (or any derivatives thereof) or any intellectual property in connection therewith. 
+         Nothing in this License Agreement is intended to grant any rights or license under any patent, copyright, or other intellectual property right of GOO® to Licensee and/or to any other party, nor shall this License Agreement grant the Licensee any rights in or to the GOO® Intellectual Property Rights, 
+         except for the limited right to use such GOO® Intellectual Property Rights solely for the purpose specified hereinabove. For the purpose of this License Agreement, the term “GOO® Intellectual Property Rights” shall mean any and all intellectual property rights in connection with the Licensed Software, including, without limitation, the worldwide rights, whether or not perfected, associated with:
+         (a) works of authorship, copyrights, including moral rights, registrations and applications for registration thereof; (b) any invention, discovery, concept, composition, data, experiment, material, method, process, product and result; (c) patents, patent applications and all related continuations, divisional, reissue, utility models, design patents, applications and registrations thereof, certificates of inventions; (d) trade secrets, confidential information, know-how, designs, prototypes, enhancements, improvement, work-in progress, research and development information; (e) trademarks, trademark applications, trade names, logos, product names, product manuals, training materials, documentation and other support materials, whether or not patented, copyrighted or trademarked; (f) software, firmware, network or product architectures, specifications, drawings, flow charts; and (g) all other proprietary rights relating to the foregoing. Inasmuch as Licensee and/or any on its behalf shall discover, conceive or develop (or have developed) any concepts, know-how, technologies, processes or products in connection with or as a result of the use of the Licensed Software (“GOO®’s Work Product”), such shall be deemed GOO®’s Property and Licensee hereby irrevocably: (i) assigns to GOO®, whenever and in perpetuity, any right, title and interest, whether now existing or later arising, that Licensee may have in or to GOO®’s Work Product and related intellectual property rights; and (ii) agrees, to take any lawful action, which GOO® reasonably requests to vest or protect GOO®’s right, title and interest in and to GOO®’s Work Product (at GOO®’s reasonable cost).
+         6.2. Customer shall cooperate with GOO® in protecting the rights of GOO® in the Licensed Software and Confidential Information. Without limiting the foregoing, 
+         Customer agrees to notify GOO®promptly in the event that the Customer becomes aware of any infringement of such rights. GOO® shall exclusively have the right, in its sole discretion, to prosecute lawsuits against any party for infringement of the rights of GOO® in the Licensed Software and Confidential Information. 
+         The Customer agrees to fully cooperate with GOO®, at the expense of GOO®, in the prosecution of any such suit.
+
+         7. Term and Termination:
+
+         7.1. This License Agreement shall continue in full force and effect for a period of twelve (12) months. Notwithstanding the aforementioned, the License Agreement may at any time be terminated by GOO® immediately, if so indicated by GOO®, or by delivery of a 5-day prior notice to Customer terms.
+         7.2. Sections 3 (Confidentiality), 5 (Limitation on Liability), 6 (Proprietary Rights) and 9 (Governing Law; Jurisdiction)  shall survive termination and shall remain in full force and effect thereafter.
+
+         8. Notices:
+
+         Any notice required by this License Agreement shall be given in writing by registered mail, facsimile transmission or personal delivery to the addresses of the parties (Customer’s address will be as delivered to GOO®, and shall be deemed to have been delivered five days after the date on which the notice was posted, or in the case of notice by facsimile, 24 hours after dispatch, or in the case of personal delivery, at the time of delivery.
+
+         9. Governing Law; Jurisdiction:
+
+         This License Agreement shall be governed by and construed under the laws of the Turkiye exclusive of its choice of law rules. The United Nations Convention for the International Sale of Goods shall not apply. Any dispute between you and GOO® shall exclusively be brought before the competent court of Ankara. 
+
+         APPENDIX I
+
+         CONDITIONS OF THE LICENSE LICENSE
+
+         The License License is subject to the following conditions and restrictions (in addition to all conditions and restrictions as set forth in the License License Agreement):
+         1. Customer shall only receive access to one (1) server instance.
+         2. Customer shall only receive access to five (5) concurent system users.
+         3. The License License shall only apply to one (1) site.
+         4. Customer acknowledges and agrees that support shall be limited, at the sole discretion of GOO®.
+         5. The License License shall be subject to such other restrictions and limitations as indicated by GOO® from time to time, and as may be published on the GOO® website.
+
+         APPENDIX II
+         THIS AGREEMENT WILL BECOME EFFECTIVE AUTOMATICALLY AND IMMEDIATELY UPON PURCHASE OF THE LICENSED SOFTWARE
+
+         END-USER LICENSE AGREEMENT FOR GOO® WEB SERVER SOFTWARE
+
+         IMPORTANT—READ CAREFULLY: This End-User License Agreement (“EULA”) is a legal agreement between you, either a small, medium or enterprise customer (all referred to as “enterprise customer”), or a service provider, and GOO®  for the software that accompanies this EULA, which includes computer software in object code and may include associated media, printed materials, “online” or electronic documentation, and Internet-based services (“Software”). This EULA also governs any product support services relating to the Software except as may be included in another agreement between you and GOO®.  YOU ARE REQUIRED TO ACCEPT THE TERMS OF THIS EULA AS PART OF THE INSTALLATION AND INITIALISATION OF THE SOFTWARE. IN ANY EVENT, BY INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, DO NOT INSTALL, COPY OR USE THE SOFTWARE.
+
+         1.GRANT OF LICENSE.
+         GOO® grants you the following rights provided that you comply with all terms and conditions of this EULA:
+
+         For all customers:
+         You agree that the applicable fees will be published by GOO® at their then current web address, as amended from time to time, or by your reseller as the case may be.
+         If GOO® or your reseller has agreed in writing to a discount with you on any of the applicable fees, you are entitled to deduct such discount from the amounts due from time to time.
+         For the purposes of this EULA, a ‘virtual machine’ shall mean an instance of an operating system ran by you or any of your users or customers and any application programs installed thereon, in a separate environment, running on a server on which the Software is installed, or suspended to disk or any other storage media accessible by the computing device.
+         For the purposes of this EULA, a ‘server platform build’ shall mean an instance of an operating system ran by you or any of your users or customers and any application programs installed thereon, in a separate environment, running on a server on which the Software is installed, or suspended to disk or any other storage media accessible by the computing device.
+         For the purposes of this EULA, a ‘virtual software instance’ shall mean an instance of an application program ran by you or any of your users or customers, in a separate environment, running on a cloud access point on which the Software is installed, or suspended to disk or any other storage media accessible by the computing device.
+         A ‘server’ means a computer device that runs generally accepted server software and/or that serves as such in a network of devices. A ‘processor’ shall mean a single physical chip that houses no more than sixteen (16) processor cores.
+
+         2. RESERVATION OF RIGHTS AND OTHER RESTRICTIONS.
+         The Software is protected by copyright and other intellectual property laws and treaties.  GOO® or its suppliers own the title, copyright, and other intellectual property rights in the Software.  
+         The Software is licensed, not sold.  GOO®  reserves all rights not expressly granted to you in this EULA.  Reverse engineering, decompiling, or disassembling the Software is prohibited, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+         Renting, leasing, or lending the Software (other than as allowed under section 1 above) is also prohibited.
+
+         3. CONSENT TO USE OF DATA.
+         You agree that GOO® and its affiliates may collect and use technical information gathered as part of the process of obtaining license activation keys for the Software or as part of any support services provided to you, 
+         if any, related to the Software.  GOO® may use this information solely to determine whether or not you have paid all fees due and improve its products and services or to provide customized services or technologies to you and will not disclose this information in a form that personally identifies you or any of your employees or customers.
+
+         4. LINKS TO THIRD PARTY SITES.
+         You may link to third party sites through the use of the Software.  The third party sites are not under the control of GOO®, and GOO® is not responsible for the contents of any third party sites, any links contained in third party sites, or any changes or updates to third party sites.  
+         GOO® is not responsible for web casting or any other form of transmission received from any third party sites.  GOO® is providing these links to third party sites to you only as a convenience, and the inclusion of any link does not imply an endorsement by GOO® of the third party site.
+
+         5. ADDITIONAL SOFTWARE/SERVICES.
+         This EULA applies to updates, supplements, add-on components, or Internet-based services components, of the Software that GOO®  may provide to you or make available to you after the date you obtain your initial copy of the Software, unless we provide other terms along with the update, supplement, add-on component, or Internet-based services component.  GOO®  reserves the right to discontinue any Internet-based services provided to you or made available to you through the use of the Software.  
+         This EULA does not grant you any rights to use software other than the Software. You shall obtain an appropriate license for any other software you use or run in connection with the Software.
+
+         6. NOT FOR RESALE SOFTWARE.
+         Software identified as “Not For Resale” or “NFR,” may not be sold or otherwise transferred for value, or used for any purpose other than demonstration, test or evaluation.
+
+         7. SUPPORT SERVICES.
+         If you are an enterprise customer and subject to your payment of all of the applicable support fees, GOO®  shall use all commercially reasonable efforts to support you and your use of the Software in accordance with the GOO® support policy as set forth at http://www.goosm.com/support as amended from time to time.  
+         You agree to procure Support Services from GOO® for at least one (1) year after the date you acquired the Software.  
+         The support services shall be automatically extended for successive terms equal to the initial term unless terminated by either party by at least 30 days prior written notice served on the other party prior to the anniversary date. If you are a service provider all applicable support services fees are bundled into the recurring Software license costs unless otherwise specified. 
+         GOO®will provide the Support Services only for the most current release and the immediately preceding major release of the Software.  GOO® may elect to cease supporting a platform and will communicate this to you via its website upon twelve (12) months prior notice.  
+         GOO®may also charge additional license and support fees for third party products and/or additional functionality or features incorporated in an upgrade of the Software.
+
+         8. EXPORT RESTRICTIONS.
+         You acknowledge that the Software may be subject to legal export jurisdiction.
+
+         9. AUDIT RIGHT.
+         You will maintain accurate records as to your use of the Software and the virtual machines created or hosted via the Software, and/or server platform builds and/or virtual software instances, and/or backup/replication agents and/or other metrics created or hosted via the Software. 
+         You will grant GOO® access to such records and to the installed copies of the Software in order to determine your compliance with the terms and conditions of this EULA and the amounts due on the basis of the applicable fees as set forth on the then-current price list for the Software.
+
+         10. TERMINATION.
+         Without prejudice to any other rights, GOO®  may terminate this EULA if you fail to comply with the terms and conditions of this EULA. 
+         In such event, you must destroy all copies of the Software and all of its component parts.
+
+         11. DISCLAIMER OF WARRANTIES.
+         To the maximum extent permitted by applicable law, GOO® and its suppliers provide the Software, and support services (if any) AS IS AND WITH ALL FAULTS, 
+         and GOO® and its suppliers hereby disclaim all OTHER warranties and conditions, whether express, implied or statutory, including, but not limited to,
+         any (if any) IMPLIED warranties, DUTIES or conditions of MERCHANTABILITY, OF fitness for a particular purpose, OF RELIABILITY OR AVAILABILITY, 
+         OF ACCURACY OR COMPLETENESS OF RESPONSES, OF RESULTS, OF WORKMANLIKE EFFORT, OF LACK OF VIRUSES, AND OF LACK OF NEGLIGENCE, ALL WITH REGARD TO THE  SOFTWARE, 
+         AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT THROUGH THE  SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE  SOFTWARE.  
+         also, there is no warranty or condition of title, quiet enjoyment, quiet possession, correspondence to description or non-infringement with regard to THE SOFTWARE.   THE ENTIRE RISK AS TO THE QUALITY, OR ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE AND ANY SUPPORT SERVICES, REMAINS WITH YOU.
+
+        12. EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES.
+        To the maximum extent permitted by applicable law, in no event shall GOO® or its suppliers be liable for any special, incidental, punitive, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits or confidential or other information, for business interruption, for personal injury, 
+        for loss of privacy, for failure to meet any duty including of good faith or of reasonable care, for negligence, and for any other pecuniary or other loss whatsoever) arising out of or in any way related to the use of or inability to use the SOFTWARE, 
+        the provision of or failure to provide Support OR OTHER Services, informatIon, software, and related CONTENT through the software or otherwise arising out of the use of the software, or otherwise under or in connection with any provision of this EULA, 
+        even in the event of the fault, tort (including negligence), misrepresentation, strict liability, breach of contract or breach of warranty of GOO® or any supplier, 
+        and even if GOO® or any supplier has been advised of the possibility of such damages.
+
+        13. LIMITATION OF LIABILITY AND REMEDIES.
+        NOTWITHSTANDING ANY DAMAGES THAT YOU OR YOUR CUSTOMERS MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED HEREIN AND ALL DIRECT OR GENERAL DAMAGES IN CONTRACT OR ANYTHING ELSE), 
+        THE ENTIRE LIABILITY OF CONTINUITY CONCEPTS AND ANY OF ITS SUPPLIERS UNDER ANY PROVISION OF THIS EULA AND THE EXCLUSIVE REMEDY OF YOU AND YOUR CUSTOMERS HEREUNDER SHALL BE LIMITED TO THE GREATER OF THE ACTUAL DAMAGES YOU AND/OR YOUR CUSTOMERS 
+        INCUR IN REASONABLE RELIANCE ON THE SOFTWARE UP TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE COPY OF THE SOFTWARE THAT GAVE RISE TO THE DAMAGES.  
+        THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+        14. APPLICABLE LAW AND COMPETENT COURT.
+        This EULA and the use of the Software is governed by the laws of the Turkiye.  The United Nations Convention for the International Sale of Goods shall not apply. Any dispute between you and GOO® shall exclusively be brought before the competent court of Ankara.
+
+        15. ENTIRE AGREEMENT: SEVERABILITY.
+        This EULA (including any addendum or amendment to this EULA which is included with the Software) are the entire agreement between you and GOO® relating to the Software and the support services (if any) and they supersede all prior or 
+        contemporaneous oral or written communications, proposals and representations with respect to the Software or any other subject matter covered by this EULA.  
+        To the extent the terms of any GOO® policies or programs for support services conflict with the terms of this EULA, the terms of this EULA shall control.  
+        If any provision of this EULA is held to be void, invalid, unenforceable or illegal, the other provisions shall continue in full force and effect.
+
+
+
+        
+
+
+
 
