@@ -181,6 +181,6 @@
   Apache License, Version 2.0 (ALv2)
   </pre>
 
-  <p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file. For more details, please refer to the <a href="LICENSE">LICENSE</a> file.</p>
+  <p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file. For more details, please refer to the <a href="https://github.com/nisayrdglll/denemee/blob/main/LICENCE">LICENSE</a> file.</p>
 </div>
 
