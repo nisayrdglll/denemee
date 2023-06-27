@@ -175,12 +175,12 @@
 <div>
   <h2>License</h2>
 
-<p>This project is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>. The license text can be found below:</p>
+  <p>This project is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>. The license text can be found below:</p>
 
-<pre>
-Apache License, Version 2.0 (ALv2)
-</pre>
+  <pre>
+  Apache License, Version 2.0 (ALv2)
+  </pre>
 
-<p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file.</p>
-
+  <p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file. For more details, please refer to the <a href="LICENSE">LICENSE</a> file.</p>
 </div>
+
