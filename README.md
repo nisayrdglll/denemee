@@ -32,7 +32,7 @@
     <strong>Hosting Web Applications:</strong> The GOO Web Server allows you to host and serve your web applications, making them accessible to users over the internet.
   </li>
   <li>
-    <strong>Platform for Dynamic Content:</strong> With the GOO Web Server, you can run server-side scripting languages like PHP, Python, or Node.js, enabling the creation of dynamic and interactive web pages.
+    <strong>Platform for Dynamic Content:</strong> With the GOO Web Server, you can run server-side scripting languages like PHP, enabling the creation of dynamic and interactive web pages.
   </li>
   <li>
     <strong>Database Integration:</strong> The GOO Web Server often comes with support for database systems like MySQL and PostgreSQL.This integration allows you to store and retrieve data for your web applications.
