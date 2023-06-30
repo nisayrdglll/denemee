@@ -53,8 +53,8 @@
 </div>
 <hr>
 <div>
-   <h1>Configuration Settings</h1>
-  <h2>Apache Configuration Settings</h2>
+   <h2>Configuration Settings</h2>
+ <strong>Apache Configuration Settings</strong>
  <ul>
   <li><strong>Define app_dir "C:\Program Files\INOSAS\GOO":</strong>
     <ul>
