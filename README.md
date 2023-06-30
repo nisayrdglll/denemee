@@ -135,7 +135,7 @@
   <h3>PHP Configuration Settings</h3>
    <p><strong>LoadModule:</strong> You can load the PHP module by adding a <code>LoadModule</code> directive specific to PHP. The directive should specify the path to the PHP module shared object file. For example:</p>
 
-<pre><code class="bash">LoadModule php7_module modules/libphp7.so</code></pre>
+<pre><code class="bash"LoadModule php7_module modules/libphp7.so</code></pre>
 
 <p><strong>&lt;FilesMatch&gt;:</strong> You can use the <code>&lt;FilesMatch&gt;</code> directive to apply specific configurations to PHP files. For example, to set the PHP handler for files with a <code>.php</code> extension, you can use the following:</p>
 
