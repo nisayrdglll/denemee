@@ -149,29 +149,50 @@
 
 <div>
   <h2>Installation </h2>
-<ol>
-  <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
-  <li>Download the necessary resources:
-    <ul>
-      <li>Download the latest version of the GOO Web Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
-    </ul>
-  </li>
-  <li>Run the downloaded installation file. The installation wizard will start.</li>
-  <li>Follow the steps guided by the installation wizard. The installation typically includes the following steps:
-    <ul>
-      <li>Accept the license agreement.</li>
-      <li>Select the installation type. Usually, you should choose the "Typical" installation option.</li>
-      <li>Specify the installation location. You can accept the default value or choose a different location.</li>
-      <li>Select the required components. Besides the GOO Web Server, you can choose optional modules or features.</li>
-      <li>Start the installation and wait for it to complete.</li>
-    </ul>
-  </li>
-  <li>Once the installation is complete, the GOO Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
-  <li>Customize your server by editing  configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
-  <li>Start the GOO Web Server. You can start it by running the startup file or managing services.</li>
-  <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, You should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
-</ol>
-</div>
+  <h3>Windows</h3>
+  <ol>
+    <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/windows.html">https://httpd.apache.org/docs/2.4/platform/windows.html</a> and review the complete documentation.</li>
+    <li>Download the necessary resources:
+      <ul>
+        <li>Download the latest version of the GOO Web Server from <a href="https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe">https://inosas.com/downloads/GooWS-3.2.8-Win_x64-Server.exe</a>.</li>
+      </ul>
+    </li>
+    <li>Run the downloaded installation file. The installation wizard will start.</li>
+    <li>Follow the steps guided by the installation wizard. The installation typically includes the following steps:
+      <ul>
+        <li>Accept the license agreement.</li>
+        <li>Select the installation type. Usually, you should choose the "Typical" installation option.</li>
+        <li>Specify the installation location. You can accept the default value or choose a different location.</li>
+        <li>Select the required components. Besides the GOO Web Server, you can choose optional modules or features.</li>
+        <li>Start the installation and wait for it to complete.</li>
+      </ul>
+    </li>
+    <li>Once the installation is complete, the GOO Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
+    <li>Customize your server by editing the configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
+    <li>Start the GOO Web Server. You can start it by running the startup file or managing services.</li>
+    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
+  </ol>
+
+  <h3>Linux</h3>
+  <ol>
+    <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/unix.html">https://httpd.apache.org/docs/2.4/platform/unix.html</a> and review the complete documentation.</li>
+    <li>Download the necessary dependencies. Install the dependencies for Apache HTTP Server using the package manager specific to your Linux distribution.</li>
+    <li>Download Apache HTTP Server. Use the following commands to download the source code:
+      <ul>
+        <li>$ wget https://archive.apache.org/dist/httpd/httpd-2.4.46.tar.gz</li>
+        <li>$ tar -xf httpd-2.4.46.tar.gz</li>
+        <li>$ cd httpd-2.4.46</li>
+      </ul>
+    </li>
+    <li>Perform the compilation and installation:
+      <ul>
+        <li>$ ./configure --prefix=/usr/local/apache2</li>
+        <li>$ make</li>
+        <li>$ sudo make install</li>
+      </ul>
+    </li>
+    <li>Customize your server by editing the
+
 <hr>
 
 <div>
