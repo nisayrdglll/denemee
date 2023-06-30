@@ -134,7 +134,7 @@
 </ul>
   <hr>
 </div>
-<hr>
+<hr style="border-top: 1px solid #ccc;">
 
 <div>
   <h2>Installation </h2>
