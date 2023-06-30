@@ -132,9 +132,33 @@
     </ul>
   </li>
 </ul>
-  <hr>
+  <h3>PHP Configuration Settings</h3>
+<p><strong>LoadModule:</strong> You can load the PHP module by adding a <code>LoadModule</code> directive specific to PHP. The directive should specify the path to the PHP module shared object file. For example:</p>
+
+<pre><code>&lt;pre&gt;&lt;code class="bash"&gt;LoadModule php7_module modules/libphp7.so&lt;/code&gt;&lt;/pre&gt;</code></pre>
+
+<p><strong>&lt;FilesMatch&gt;:</strong> You can use the <code>&lt;FilesMatch&gt;</code> directive to apply specific configurations to PHP files. For example, to set the PHP handler for files with a <code>.php</code> extension, you can use the following:</p>
+
+<pre><code>&lt;pre&gt;&lt;code class="php"&gt;&lt;FilesMatch \.php$&gt;
+    SetHandler application/x-httpd-php
+&lt;/FilesMatch&gt;&lt;/code&gt;&lt;/pre&gt;</code></pre>
+
+<p><strong>DirectoryIndex:</strong> The <code>DirectoryIndex</code> directive specifies the default filenames to use when a directory is requested. You can include PHP files in the list of default filenames. For example:</p>
+
+<pre><code>&lt;pre&gt;&lt;code&gt;DirectoryIndex index.php index.html&lt;/code&gt;&lt;/pre&gt;</code></pre>
+
+<p>This tells Apache to look for <code>index.php</code> first and then <code>index.html</code> if it exists in a directory.</p>
+
+<p><strong>AddType:</strong> The <code>AddType</code> directive can be used to associate the <code>.php</code> file extension with the PHP handler. This ensures that Apache recognizes PHP files and processes them accordingly. For example:</p>
+
+<pre><code>&lt;pre&gt;&lt;code class="bash"&gt;AddType application/x-httpd-php .php&lt;/code&gt;&lt;/pre&gt;</code></pre>
+
+<p>This tells Apache that files with a <code>.php</code> extension should be treated as PHP scripts.</p>
+
+<p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.</p>
+
 </div>
-<hr style="border-top: 1px solid #ccc;">
+<hr style="border-top: 0.5px solid #ccc;">
 
 <div>
   <h2>Installation </h2>
