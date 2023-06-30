@@ -1,4 +1,3 @@
-<h1> <img src="https://github.com/nisayrdglll/denemee/assets/115365248/4be6c390-9d71-428b-b2a0-33fb4af91933"> GOO Web Server</h1>
 
 <div align="center">
   <img src= "https://github.com/nisayrdglll/denemee/assets/115365248/6001fd62-1efa-48b9-8a9d-3bd92055ccbb"
