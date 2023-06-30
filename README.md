@@ -191,9 +191,17 @@
         <li>$ sudo make install</li>
       </ul>
     </li>
-    <li>Customize your server by editing the
-
+    <li>Customize your server by editing the configuration file (httpd.conf). This file is typically located in the `/usr/local/apache2/conf` directory.</li>
+    <li>Start the Apache HTTP Server. You can use the following command to start the server:
+      <ul>
+        <li>$ sudo /usr/local/apache2/bin/apachectl start</li>
+      </ul>
+    </li>
+    <li>Verify that the Apache HTTP Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the Apache welcome page with the configuration settings.</li>
+  </ol>
+</div>
 <hr>
+
 
 <div>
   <h2>License</h2>
