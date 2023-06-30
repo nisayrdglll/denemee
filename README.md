@@ -35,7 +35,7 @@
     <strong>Platform for Dynamic Content:</strong> With the GOO Web Server, you can run server-side scripting languages like PHP, Python, or Node.js, enabling the creation of dynamic and interactive web pages.
   </li>
   <li>
-    <strong>Database Integration:</strong> The GOO Web Server often comes with support for database systems like MySQL, PostgreSQL, or MongoDB. This integration allows you to store and retrieve data for your web applications.
+    <strong>Database Integration:</strong> The GOO Web Server often comes with support for database systems like MySQL, PostgreSQL.This integration allows you to store and retrieve data for your web applications.
   </li>
   <li>
     <strong>Scalability and Performance:</strong> The GOO Web Server is designed to handle multiple concurrent requests efficiently, ensuring high performance and scalability as your application grows.
