@@ -152,6 +152,7 @@
 </ul>
 <pre><code class="bash">AddType application/x-httpd-php .php</code></pre>
 <p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.</p>
+
 </div>
 <hr>
 
