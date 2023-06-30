@@ -176,8 +176,8 @@
   <h3>Linux</h3>
   <ol>
     <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/unix.html">https://httpd.apache.org/docs/2.4/platform/unix.html</a> and review the complete documentation.</li>
-    <li>Download the necessary dependencies. Install the dependencies for Apache HTTP Server using the package manager specific to your Linux distribution.</li>
-    <li>Download Apache HTTP Server. Use the following commands to download the source code:
+    <li>Download the necessary dependencies. Install the dependencies for GOO Web Server using the package manager specific to your Linux distribution.</li>
+    <li>Download GOO Web Server. Use the following commands to download the source code:
       <ul>
         <li>$ wget https://archive.apache.org/dist/httpd/httpd-2.4.46.tar.gz</li>
         <li>$ tar -xf httpd-2.4.46.tar.gz</li>
@@ -192,12 +192,12 @@
       </ul>
     </li>
     <li>Customize your server by editing the configuration file (httpd.conf). This file is typically located in the `/usr/local/apache2/conf` directory.</li>
-    <li>Start the Apache HTTP Server. You can use the following command to start the server:
+    <li>Start the GOO Web Server. You can use the following command to start the server:
       <ul>
         <li>$ sudo /usr/local/apache2/bin/apachectl start</li>
       </ul>
     </li>
-    <li>Verify that the Apache HTTP Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the Apache welcome page with the configuration settings.</li>
+    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the GOO Web Server welcome page with the configuration settings.</li>
   </ol>
 </div>
 <hr>
