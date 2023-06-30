@@ -158,7 +158,7 @@
 <p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.</p>
 
 </div>
-<hr style="border-top: 0.5px solid #ccc;">
+<hr>
 
 <div>
   <h2>Installation </h2>
