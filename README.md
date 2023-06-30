@@ -153,6 +153,43 @@
 <pre><code class="bash">AddType application/x-httpd-php .php</code></pre>
 <p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.</p>
 
+<h3>PHP Database Configuration Settings</h3>
+
+<ul>
+  <li>
+    <strong>Database Connection:</strong> To connect to a database, you'll need to provide the necessary configuration settings. This typically includes the following parameters:
+    <ul>
+      <li>Database Host: The hostname or IP address where the database server is running.</li>
+      <li>Database Port: The port number on which the database server is listening.</li>
+      <li>Database Name: The name of the database you want to connect to.</li>
+      <li>Database User: The username for authenticating with the database server.</li>
+      <li>Database Password: The password for the database user.</li>
+    </ul>
+    Here's an example of how you can specify these settings in the Apache configuration file using environment variables:
+  </li>
+</ul>
+
+<pre><code class="apache">
+SetEnv DB_HOST localhost
+SetEnv DB_PORT 3306
+SetEnv DB_NAME mydatabase
+SetEnv DB_USER myusername
+SetEnv DB_PASS mypassword
+</code></pre>
+
+<p>
+These environment variables can then be accessed within your PHP application to establish a connection to the database.
+</p>
+
+<p>
+Please note that the specific configuration settings may vary depending on the database system you are using (e.g., MySQL, PostgreSQL, etc.). Make sure to adjust the settings accordingly based on your database setup.
+</p>
+
+<p>
+Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.
+</p>
+
+
 </div>
 <hr>
 
