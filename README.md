@@ -153,7 +153,7 @@
 <pre><code class="bash">AddType application/x-httpd-php .php</code></pre>
 <p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the GOO Web Server after making any changes to the configuration file for the changes to take effect.</p>
 
-<h2>Database Configuration Settings </h2>
+<h3>Database Configuration Settings </h3>
 <h3>PHP MySQL Configuration Settings</h3>
 <ul>
   <li>
