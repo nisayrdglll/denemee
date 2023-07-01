@@ -225,7 +225,7 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
     <li>Once the installation is complete, the GOO Web Server will be successfully installed. You can find the installed directory by navigating to the location you specified during the installation process.</li>
     <li>Customize your server by editing the configuration file (httpd.conf). This file is typically located in the "conf" subdirectory of the installation directory.</li>
     <li>Start the GOO Web Server. You can start it by running the startup file or managing services.</li>
-    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the GOO Web Server 3.2.8 installation page with the configuration settings.</li>
+    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> or <a href="https://localhost">https://localhost</a> in your browser. By default, you should see the GOO Web Server info page with the configuration settings.</li>
   </ol>
 
   <h3>Linux</h3>
