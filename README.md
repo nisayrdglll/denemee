@@ -252,7 +252,7 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
         <li>$ sudo /usr/local/apache2/bin/apachectl start</li>
       </ul>
     </li>
-    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> in your browser. By default, you should see the GOO Web Server welcome page with the configuration settings.</li>
+    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> or <a href="https://localhost">https://localhost</a> in your browser. By default, you should see the GOO Web Server info page with the configuration settings.</li>
   </ol>
 </div>
 <hr>
