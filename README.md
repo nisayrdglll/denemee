@@ -265,7 +265,9 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
   <p>This project is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>. The license text can be found below:</p>
 
   <pre>
-  Apache License, Version 2.0 (ALv2)
+ Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
   </pre>
 
   <p>You can also find the license text in the project's root directory in the <code>LICENSE</code> file. For more details, please refer to the <a href="https://github.com/nisayrdglll/denemee/blob/main/LICENCE">LICENSE</a> file.</p>
