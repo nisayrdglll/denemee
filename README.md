@@ -151,7 +151,7 @@
   <li><strong>AddType:</strong> The <code>AddType</code> directive can be used to associate the <code>.php</code> file extension with the PHP handler. This ensures that Apache recognizes PHP files and processes them accordingly. For example:</li>
 </ul>
 <pre><code class="bash">AddType application/x-httpd-php .php</code></pre>
-<p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.</p>
+<p>These are just a few examples of customizations you can make in the Apache configuration file to tailor it for PHP. Remember to restart the GOO Web Server after making any changes to the configuration file for the changes to take effect.</p>
 
 <h2>Database Configuration Settings </h2>
 <h3>PHP MySQL Configuration Settings</h3>
@@ -197,7 +197,7 @@ SetEnv DB_USER myusername
 SetEnv DB_PASS mypassword
 </code></pre>
 <p>
-Make sure to customize the settings based on your specific MySQL or PostgreSQL database setup. Remember to restart the Apache server after making any changes to the configuration file for the changes to take effect.
+Make sure to customize the settings based on your specific MySQL or PostgreSQL database setup. Remember to restart the GOO Web Server after making any changes to the configuration file for the changes to take effect.
 </p>
 
 </div>
