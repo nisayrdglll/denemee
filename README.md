@@ -219,7 +219,6 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
         <li>Accept the license agreement.</li>
         <li>Select the installation type. Usually, you should choose the "Typical" installation option.</li>
         <li>Specify the installation location. You can accept the default value or choose a different location.</li>
-        <li>Select the required components. Besides the GOO Web Server, you can choose optional modules or features.</li>
         <li>Start the installation and wait for it to complete.</li>
       </ul>
     </li>
