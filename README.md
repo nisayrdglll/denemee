@@ -55,18 +55,19 @@
 <div>
    <h2>Configuration Settings</h2>
    <h3>Apache Configuration Settings</h3>
-<ul>Step 1: Locate the Configuration File</ul>
+  <li><strong>Step 1: Locate the Configuration File</strong></li>
+
   <p>Find the Apache configuration file named <code>httpd.conf</code>. The location of this file may vary depending on your system and installation method. Typically, it is located in one of the following paths:</p>
   <ul>
     <li><code>/etc/apache2/httpd.conf</code></li>
     <li><code>/etc/httpd/httpd.conf</code></li>
     <li><code>/usr/local/apache2/conf/httpd.conf</code></li>
   </ul>
+<li><strong>Step 2: Edit the Configuration File</strong></li>
 
-  <ul>Step 2: Edit the Configuration File</ul>
   <p>Open the <code>httpd.conf</code> file in a text editor. You may need superuser privileges to edit this file.</p>
+<li><strong>Step 3: Configure Server Settings</strong></li>
 
-  <ul>Step 3: Configure Server Settings</ul>
   <p>Modify the relevant server settings to meet your requirements. Here are some common configuration options:</p>
   <ul>
     <li><code>ServerName</code>: Set the hostname or IP address for the server.</li>
@@ -75,12 +76,11 @@
     <li><code>DirectoryIndex</code>: Specify the default file to serve when a directory is accessed.</li>
     <li><code>ErrorLog</code>: Set the file path where error logs will be written.</li>
   </ul>
+<li><strong>Step 4: Save and Restart Apache</strong></li>
 
-  <ul>Step 4: Save and Restart Apache</ul>
   <p>Save the changes to the <code>httpd.conf</code> file and exit the text editor. Then, restart Apache for the new configuration to take effect.</p>
   <pre><code>sudo systemctl restart apache2</code></pre>
-
-  <ul>Step 5: Test the Configuration</ul>
+<li><strong>Step 5: Test the Configuration</strong></li>
   <p>Open a web browser and access your server using its hostname or IP address. Verify that the changes you made in the configuration file are applied correctly.</p>
 
   <p>For more detailed information about Apache configuration options, refer to the <a href="https://httpd.apache.org/docs/2.4/">Apache documentation</a>.</p>
