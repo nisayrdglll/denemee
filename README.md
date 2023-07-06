@@ -246,7 +246,7 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
   <pre><code>sudo systemctl enable apache2</code></pre>
   <li><strong>Step 5: Verify the Installation</strong></li>
   <p>Open your web browser and visit the following URL:</p>
-  <pre><code>http://localhost/</code></pre>
+  <pre><code>http://localhost/ or https://localhost/ </code></pre>
   <p>You should see the default Apache web page. If you can see it, that means Apache web server has been successfully installed.</p>
 </ol>
 
