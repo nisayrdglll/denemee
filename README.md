@@ -231,20 +231,20 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
   <h3>Linux</h3>
 
  <ol>
-  <li><strong>Step 1: Install Required Dependencies</strong></li>
+  <li><strong>Install Required Dependencies</strong></li>
   <p>Open a terminal and use the following command to update the system's package list:</p>
   <pre><code>sudo apt update</code></pre>
-  <li><strong>Step 2: Install Apache Web Server</strong></li>
+  <li><strong> Install Apache Web Server</strong></li>
   <p>Use the following command to install the Apache web server:</p>
   <pre><code>sudo apt install apache2</code></pre>
   <p>During the installation, your system may ask you to confirm permissions or install additional dependencies. Confirm any prompted actions and wait for the installation to complete.</p>
-  <li><strong>Step 3: Start Apache Web Server</strong></li>
+  <li><strong>Start Apache Web Server</strong></li>
   <p>Use the following command to start the Apache web server:</p>
   <pre><code>sudo systemctl start apache2</code></pre>
-  <li><strong>Step 4: Enable Automatic Startup</strong></li>
+  <li><strong>Enable Automatic Startup</strong></li>
   <p>To ensure Apache automatically starts when the system boots up, use the following command:</p>
   <pre><code>sudo systemctl enable apache2</code></pre>
-  <li><strong>Step 5: Verify the Installation</strong></li>
+  <li><strong>Verify the Installation</strong></li>
   <p>Open your web browser and visit the following URL:</p>
   <pre><code>http://localhost/ or https://localhost/ </code></pre>
   <p>You should see the default Apache web page. If you can see it, that means Apache web server has been successfully installed.</p>
