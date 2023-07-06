@@ -227,33 +227,42 @@ Make sure to customize the settings based on your specific MySQL or PostgreSQL d
     <li>Start the GOO Web Server. You can start it by running the startup file or managing services.</li>
     <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> or <a href="https://localhost">https://localhost</a> in your browser. By default, you should see the GOO Web Server info page with the configuration settings.</li>
   </ol>
-
+<div>
   <h3>Linux</h3>
-  <ol>
-    <li>First, go to <a href="https://httpd.apache.org/docs/2.4/platform/unix.html">https://httpd.apache.org/docs/2.4/platform/unix.html</a> and review the complete documentation.</li>
-    <li>Download the necessary dependencies. Install the dependencies for GOO Web Server using the package manager specific to your Linux distribution.</li>
-    <li>Download GOO Web Server. Use the following commands to download the source code:
-      <ul>
-        <li>$ wget https://archive.apache.org/dist/httpd/httpd-2.4.46.tar.gz</li>
-        <li>$ tar -xf httpd-2.4.46.tar.gz</li>
-        <li>$ cd httpd-2.4.46</li>
-      </ul>
-    </li>
-    <li>Perform the compilation and installation:
-      <ul>
-        <li>$ ./configure --prefix=/usr/local/apache2</li>
-        <li>$ make</li>
-        <li>$ sudo make install</li>
-      </ul>
-    </li>
-    <li>Customize your server by editing the configuration file (httpd.conf). This file is typically located in the `/usr/local/apache2/conf` directory.</li>
-    <li>Start the GOO Web Server. You can use the following command to start the server:
-      <ul>
-        <li>$ sudo /usr/local/apache2/bin/apachectl start</li>
-      </ul>
-    </li>
-    <li>Verify that the GOO Web Server is running by visiting <a href="http://localhost">http://localhost</a> or <a href="https://localhost">https://localhost</a> in your browser. By default, you should see the GOO Web Server info page with the configuration settings.</li>
-  </ol>
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Installation of Apache Web Server</title>
+</head>
+<body>
+  <h1>Installation of Apache Web Server</h1>
+
+  <h2>Step 1: Install Required Dependencies</h2>
+  <p>Open a terminal and use the following command to update the system's package list:</p>
+  <pre><code>sudo apt update</code></pre>
+
+  <h2>Step 2: Install Apache Web Server</h2>
+  <p>Use the following command to install the Apache web server:</p>
+  <pre><code>sudo apt install apache2</code></pre>
+
+  <p>During the installation, your system may ask you to confirm permissions or install additional dependencies. Confirm any prompted actions and wait for the installation to complete.</p>
+
+  <h2>Step 3: Start Apache Web Server</h2>
+  <p>Use the following command to start the Apache web server:</p>
+  <pre><code>sudo systemctl start apache2</code></pre>
+
+  <h2>Step 4: Enable Automatic Startup</h2>
+  <p>To ensure Apache automatically starts when the system boots up, use the following command:</p>
+  <pre><code>sudo systemctl enable apache2</code></pre>
+
+  <h2>Step 5: Verify the Installation</h2>
+  <p>Open your web browser and visit the following URL:</p>
+  <pre><code>http://localhost/</code></pre>
+
+  <p>You should see the default Apache web page. If you can see it, that means Apache web server has been successfully installed.</p>
+</body>
+</html>
+
 </div>
 <hr>
 
