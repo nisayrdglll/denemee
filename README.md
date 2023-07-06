@@ -55,7 +55,7 @@
 <div>
    <h2>Configuration Settings</h2>
    <h3>Apache Configuration Settings</h3>
-<h2>Step 1: Locate the Configuration File</h2>
+<h1>Step 1: Locate the Configuration File</h>
   <p>Find the Apache configuration file named <code>httpd.conf</code>. The location of this file may vary depending on your system and installation method. Typically, it is located in one of the following paths:</p>
   <ul>
     <li><code>/etc/apache2/httpd.conf</code></li>
@@ -63,10 +63,10 @@
     <li><code>/usr/local/apache2/conf/httpd.conf</code></li>
   </ul>
 
-  <h2>Step 2: Edit the Configuration File</h2>
+  <h1>Step 2: Edit the Configuration File</h1>
   <p>Open the <code>httpd.conf</code> file in a text editor. You may need superuser privileges to edit this file.</p>
 
-  <h2>Step 3: Configure Server Settings</h2>
+  <h1>Step 3: Configure Server Settings</h1>
   <p>Modify the relevant server settings to meet your requirements. Here are some common configuration options:</p>
   <ul>
     <li><code>ServerName</code>: Set the hostname or IP address for the server.</li>
@@ -76,11 +76,11 @@
     <li><code>ErrorLog</code>: Set the file path where error logs will be written.</li>
   </ul>
 
-  <h2>Step 4: Save and Restart Apache</h2>
+  <h1>Step 4: Save and Restart Apache</h1>
   <p>Save the changes to the <code>httpd.conf</code> file and exit the text editor. Then, restart Apache for the new configuration to take effect.</p>
   <pre><code>sudo systemctl restart apache2</code></pre>
 
-  <h2>Step 5: Test the Configuration</h2>
+  <h1>Step 5: Test the Configuration</h1>
   <p>Open a web browser and access your server using its hostname or IP address. Verify that the changes you made in the configuration file are applied correctly.</p>
 
   <p>For more detailed information about Apache configuration options, refer to the <a href="https://httpd.apache.org/docs/2.4/">Apache documentation</a>.</p>
