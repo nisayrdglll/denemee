@@ -59,9 +59,7 @@
 
   <p>Find the Apache configuration file named <code>httpd.conf</code>. The location of this file may vary depending on your system and installation method. Typically, it is located in one of the following paths:</p>
   <ul>
-    <li><code>/etc/apache2/httpd.conf</code></li>
-    <li><code>/etc/httpd/httpd.conf</code></li>
-    <li><code>/usr/local/apache2/conf/httpd.conf</code></li>
+    <li><code>C:\Program Files\INOSAS\GOO\bin\Apache24\conf\httpd.conf</code></li>
   </ul>
 <li><strong>Step 2: Edit the Configuration File</strong></li>
 
