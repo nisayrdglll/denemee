@@ -79,7 +79,7 @@
 <li><strong>Step 4: Save and Restart Apache</strong></li>
 
   <p>Save the changes to the <code>httpd.conf</code> file and exit the text editor. Then, restart Apache for the new configuration to take effect.</p>
-  <pre><code>sudo systemctl restart apache2</code></pre>
+  <pre><code>start net start GOOWEBSERVER</code></pre>
 <li><strong>Step 5: Test the Configuration</strong></li>
   <p>Open a web browser and access your server using its hostname or IP address. Verify that the changes you made in the configuration file are applied correctly.</p>
 
@@ -88,7 +88,7 @@
 <ul>
   <li><strong>LoadModule:</strong> You can load the PHP module by adding a <code>LoadModule</code> directive specific to PHP. The directive should specify the path to the PHP module shared object file. For example:</li>
 </ul>
-<pre><code class="bash">LoadModule php7_module modules/libphp7.so</code></pre>
+<pre><code class="bash">LoadModule php_module "${app_dir}\bin\php\php8apache2_4.dll</code></pre>
 <ul>
   <li><strong>&lt;FilesMatch&gt;:</strong> You can use the <code>&lt;FilesMatch&gt;</code> directive to apply specific configurations to PHP files. For example, to set the PHP handler for files with a <code>.php</code> extension, you can use the following:</li>
 </ul>
