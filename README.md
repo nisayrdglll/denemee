@@ -68,7 +68,6 @@
 
   <p>Modify the relevant server settings to meet your requirements. Here are some common configuration options:</p>
   <ul>
-     
     <li><code>app_dir</code>:Root path of application directory that contains Apache binary files </li>
     <li><code>ServerName</code>: Set the hostname or IP address for the server.</li>
     <li><code>Listen</code>: Specify the port number on which the server listens for incoming connections.</li>
