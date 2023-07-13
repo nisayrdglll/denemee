@@ -68,11 +68,14 @@
 
   <p>Modify the relevant server settings to meet your requirements. Here are some common configuration options:</p>
   <ul>
+     
+    <li><code>app_dir</code>:Root path of application directory that contains Apache binary files </li>
     <li><code>ServerName</code>: Set the hostname or IP address for the server.</li>
     <li><code>Listen</code>: Specify the port number on which the server listens for incoming connections.</li>
     <li><code>DocumentRoot</code>: Set the directory where the server should look for files to serve.</li>
     <li><code>DirectoryIndex</code>: Specify the default file to serve when a directory is accessed.</li>
     <li><code>ErrorLog</code>: Set the file path where error logs will be written.</li>
+    
   </ul>
 <li><strong>Step 4: Save and Restart Apache</strong></li>
 
