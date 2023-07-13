@@ -79,7 +79,9 @@
 <li><strong>Step 4: Save and Restart Apache</strong></li>
 
   <p>Save the changes to the <code>httpd.conf</code> file and exit the text editor. Then, restart Apache for the new configuration to take effect.</p>
+  <pre><code>start net stop GOOWEBSERVER</code></pre>
   <pre><code>start net start GOOWEBSERVER</code></pre>
+  
 <li><strong>Step 5: Test the Configuration</strong></li>
   <p>Open a web browser and access your server using its hostname or IP address. Verify that the changes you made in the configuration file are applied correctly.</p>
 
